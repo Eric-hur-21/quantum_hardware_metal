@@ -1,1 +1,1 @@
-# quantum_hardware_metal
+# Quantum Computing Hardware Metal 2026
